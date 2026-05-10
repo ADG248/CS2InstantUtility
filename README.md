@@ -2,6 +2,8 @@
 
 **Counter-Strike 2 Instant Utility Lineup Positions**<br/>
 
+[![Download .zip](https://img.shields.io/badge/Download-.zip-blue)](https://github.com/ADG248/CS2InstantUtility/archive/refs/heads/main.zip)
+
 ### Place the .cfg file in \Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 ```
 \Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
